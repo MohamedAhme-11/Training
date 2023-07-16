@@ -6,7 +6,7 @@ Sending email with a Python script is the easiest way for users to quickly send 
 
 **Why should I make it?** 🧐
 
-Download the project and run the default environment from the Scripts file and then run the context.py file and insert the file you will attach it to in the email and enter the email for the  person who will receive it.
+Download the project and create a json file and connect it in the json file put the email and the password for the sender and setup the gmail for the sender that creating a app in the gmail that can send emails by python then run the script and input the email for who will get the email and input the file will send if the path or the file name
 
 **Who should make it?** ✋
 
