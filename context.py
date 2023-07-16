@@ -12,7 +12,7 @@ data_from_json_file = json.load(json_file) #load the data in the json file
 
 SENDER_EMAIL_sender = data_from_json_file["email"] #taking email info from data loaded
 EMAIL_PASSWORD_sender = data_from_json_file["password"] #taking password info from data loaded
-files_to_send = input("please enter the file")# loading all the files with all files type
+files_to_send = input("please enter the file : ")# loading all the files with all files type
  
 
 
