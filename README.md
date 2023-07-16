@@ -1,2 +1,1 @@
-# Training
-my Training projects
+#sending email in python
