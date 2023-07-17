@@ -1,10 +1,10 @@
 # Send Email using Python  📧
 
-**What is it?** 🤨
+**Why should I make it?** 🤨
 
 Sending email with a Python script is the easiest way for users to quickly send emails and attach files.
 
-**Why should I make it?** 🧐
+**How to Run it?** 🧐
 
 Download the project and create a json file and connect it in the json file put the email and the password for the sender and setup the gmail for the sender that creating a app in the gmail that can send emails by python then run the script and input the email for who will get the email and input the file will send if the path or the file name
 
